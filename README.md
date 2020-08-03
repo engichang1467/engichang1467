@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently looking for Software Engineer Internship/Co-op
+- - 📫 You can reach me at mca183@sfu.ca
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amirnaghibi/count.svg" />
+</p>
