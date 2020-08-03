@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-
+- 🌱 I’m currently studying computer science at Simon Fraser University (SFU)
 - 🔭 I’m currently looking for Software Engineer Internship/Co-op
-- - 📫 You can reach me at mca183@sfu.ca
+- 📫 You can reach me at mca183@sfu.ca
 
 
 <p align="center"> 
