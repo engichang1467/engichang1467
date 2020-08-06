@@ -1,4 +1,4 @@
-### Hi there, Michael here 👋
+### Hey Github, Michael here 👋
 
 <!--
 **engichang1467/engichang1467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
