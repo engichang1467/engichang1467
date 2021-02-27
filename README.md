@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 
 
-[website]: http://bit.ly/3bRHS5D
+[website]: https://bit.ly/3jyPpKE
 [twitter]: https://twitter.com/mikeychanging
 [linkedin]: http://bit.ly/38IDqnP
