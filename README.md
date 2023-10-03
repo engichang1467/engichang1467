@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’ve graduated with the degree of computer science at Simon Fraser University (SFU)
 - 🔭 I’m currently working as a Software Engineer who specialized in both Machine Learning and Computer Vision
-- 📫 You can reach me at mca183@sfu.ca
+- 📫 You can reach me at mchang0926@gmail.com
 
 ### Connect with me:
 
