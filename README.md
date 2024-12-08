@@ -1,5 +1,5 @@
 # 💫 About Me:
-I worked as a machine learning engineer who specialized in computer vision at a startup, but I got layoff. <br>I'm currently looking for another machine learning engineer roles. <br>I'm currently learning more about machine learning, deep learning, LLM and other generative ai technologies.<br>I'm happy to collaborate in ML research projects.
+I'm currently working as a machine learning engineer at Trulioo. <br>I'm currently learning more about machine learning, deep learning, LLM and other generative ai technologies.<br>I'm happy to collaborate in ML research projects.
 
 
 ## 🌐 Socials:
